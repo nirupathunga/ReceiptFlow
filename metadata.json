@@ -1,0 +1,6 @@
+{
+  "name": "ReceiptFlow",
+  "description": "A premium personal finance data-storytelling dashboard featuring interactive cash flow narratives, spending analytics, category intelligence, and receipt management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
